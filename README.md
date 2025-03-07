@@ -9,7 +9,7 @@ Este es un simple juego de adivinar el número generado en Rust. El programa gen
 2.  Clona este repositorio:
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/israelinxy/juego-adivinanza.git
 ```
 
 3.  Navega al directorio del proyecto:
